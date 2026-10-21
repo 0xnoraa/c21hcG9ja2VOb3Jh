@@ -12,58 +12,153 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nora =====
-[1]Nora        |07:23:56 | 20-10-2026| login OK @syakilanora | score=1550 rank=4497
-[1]Nora        |07:23:56 | 20-10-2026| serverTime=2026-10-20T07:23:56.000Z local=2026-10-20T07:23:56.915Z
+[1]Nora        |08:26:08 | 21-10-2026| login OK @syakilanora | score=1630 rank=4323
+[1]Nora        |08:26:08 | 21-10-2026| serverTime=2026-10-21T08:26:08.000Z local=2026-10-21T08:26:08.488Z
 --> [1]Nora menjalankan: Claim Daily
-[1]Nora        |07:23:58 | 20-10-2026| daily: OK +10 poin score=1560
---> [1]Nora menjalankan: Auto All Tasks (7 pending)
-[1]Nora        |07:24:00 | 20-10-2026| [1/7] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/syakilanora/status/2112444415237712632
-[1]Nora        |07:24:00 | 20-10-2026| delay 10s...
-[1]Nora        |07:24:13 | 20-10-2026| [2/7] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/syakilanora/status/2112444452600654663
-[1]Nora        |07:24:13 | 20-10-2026| delay 10s...
-[1]Nora        |07:24:25 | 20-10-2026| [3/7] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/syakilanora/status/2112444497856041099
-[1]Nora        |07:24:25 | 20-10-2026| delay 10s...
-[1]Nora        |07:24:37 | 20-10-2026| [4/7] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/syakilanora/status/2112444409504463770
-[1]Nora        |07:24:37 | 20-10-2026| delay 10s...
-[1]Nora        |07:24:49 | 20-10-2026| [5/7] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/syakilanora/status/2112444315070823409
-[1]Nora        |07:24:49 | 20-10-2026| delay 10s...
-[1]Nora        |07:25:02 | 20-10-2026| [6/7] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/syakilanora/status/2112444478488028320
-[1]Nora        |07:25:02 | 20-10-2026| delay 10s...
-[1]Nora        |07:25:20 | 20-10-2026| [7/7] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/syakilanora/status/2112444679801596089
-[1]Nora        |07:25:20 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nora        |07:25:29 | 20-10-2026| [1/1] f8ede5f6 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/syakilanora/status/2112444689386369433
+[1]Nora        |08:26:09 | 21-10-2026| daily: OK +10 poin score=1640
+--> [1]Nora menjalankan: Auto All Tasks (6 pending)
+[1]Nora        |08:26:11 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/syakilanora/status/2112822349758503014
+[1]Nora        |08:26:11 | 21-10-2026| delay 10s...
+[1]Nora        |08:26:23 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/syakilanora/status/2112822530042956073
+[1]Nora        |08:26:23 | 21-10-2026| delay 10s...
+[1]Nora        |08:26:35 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/syakilanora/status/2112822287546197593
+[1]Nora        |08:26:35 | 21-10-2026| delay 10s...
+[1]Nora        |08:26:47 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/syakilanora/status/2112822538831071980
+[1]Nora        |08:26:47 | 21-10-2026| delay 10s...
+[1]Nora        |08:26:59 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/syakilanora/status/2112822493229556256
+[1]Nora        |08:26:59 | 21-10-2026| delay 10s...
+[1]Nora        |08:27:12 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
+[1]Nora        |08:27:12 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nora        |08:27:13 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/syakilanora/status/2112822733562211735
 --> [1]Nora menjalankan: Watch Anime
-[1]Nora        |07:25:29 | 20-10-2026| watch ERROR: anime-order http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nora        |08:27:14 | 21-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Nora        |08:27:14 | 21-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Nora        |08:27:15 | 21-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Nora        |08:27:22 | 21-10-2026| watch oshi-captains-hat: 5% (5.19/92.00s)
+[1]Nora        |08:27:28 | 21-10-2026| watch oshi-captains-hat: 11% (10.98/92.00s)
+[1]Nora        |08:27:35 | 21-10-2026| watch oshi-captains-hat: 17% (16.44/92.00s)
+[1]Nora        |08:27:41 | 21-10-2026| watch oshi-captains-hat: 24% (22.35/92.00s)
+[1]Nora        |08:27:47 | 21-10-2026| watch oshi-captains-hat: 30% (27.94/92.00s)
+[1]Nora        |08:27:54 | 21-10-2026| watch oshi-captains-hat: 36% (34.00/92.00s)
+[1]Nora        |08:28:00 | 21-10-2026| watch oshi-captains-hat: 42% (39.52/92.00s)
+[1]Nora        |08:28:06 | 21-10-2026| watch oshi-captains-hat: 48% (44.95/92.00s)
+[1]Nora        |08:28:13 | 21-10-2026| watch oshi-captains-hat: 55% (50.69/92.00s)
+[1]Nora        |08:28:19 | 21-10-2026| watch oshi-captains-hat: 61% (56.61/92.00s)
+[1]Nora        |08:28:25 | 21-10-2026| watch oshi-captains-hat: 67% (62.10/92.00s)
+[1]Nora        |08:28:32 | 21-10-2026| watch oshi-captains-hat: 73% (67.84/92.00s)
+[1]Nora        |08:28:38 | 21-10-2026| watch oshi-captains-hat: 80% (73.69/92.00s)
+[1]Nora        |08:28:44 | 21-10-2026| watch oshi-captains-hat: 86% (79.54/92.00s)
+[1]Nora        |08:28:50 | 21-10-2026| watch oshi-captains-hat: 92% (84.96/92.00s)
+[1]Nora        |08:28:50 | 21-10-2026| watch oshi-captains-hat: COMPLETED (84.96/92.00s)
+[1]Nora        |08:28:55 | 21-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Nora        |08:28:57 | 21-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Nora        |08:29:03 | 21-10-2026| watch oshi-rainbow-star: 6% (5.20/86.00s)
+[1]Nora        |08:29:10 | 21-10-2026| watch oshi-rainbow-star: 12% (10.62/86.00s)
+[1]Nora        |08:29:17 | 21-10-2026| watch oshi-rainbow-star: 18% (16.31/86.00s)
+[1]Nora        |08:29:23 | 21-10-2026| watch oshi-rainbow-star: 25% (22.35/86.00s)
+[1]Nora        |08:29:29 | 21-10-2026| watch oshi-rainbow-star: 32% (28.32/86.00s)
+[1]Nora        |08:29:36 | 21-10-2026| watch oshi-rainbow-star: 39% (34.21/86.00s)
+[1]Nora        |08:29:42 | 21-10-2026| watch oshi-rainbow-star: 46% (39.88/86.00s)
+[1]Nora        |08:29:48 | 21-10-2026| watch oshi-rainbow-star: 53% (45.80/86.00s)
+[1]Nora        |08:29:55 | 21-10-2026| watch oshi-rainbow-star: 59% (51.22/86.00s)
+[1]Nora        |08:30:02 | 21-10-2026| watch oshi-rainbow-star: 66% (57.15/86.00s)
+[1]Nora        |08:30:08 | 21-10-2026| watch oshi-rainbow-star: 73% (63.32/86.00s)
+[1]Nora        |08:30:15 | 21-10-2026| watch oshi-rainbow-star: 80% (69.08/86.00s)
+[1]Nora        |08:30:21 | 21-10-2026| watch oshi-rainbow-star: 86% (74.80/86.00s)
+[1]Nora        |08:30:28 | 21-10-2026| watch oshi-rainbow-star: 93% (80.68/86.00s)
+[1]Nora        |08:30:28 | 21-10-2026| watch oshi-rainbow-star: COMPLETED (80.68/86.00s)
+[1]Nora        |08:30:33 | 21-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Nora        |08:30:34 | 21-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
+[1]Nora        |08:30:41 | 21-10-2026| watch oshi-rainbow-lighthouse: 5% (5.15/87.00s)
+[1]Nora        |08:30:48 | 21-10-2026| watch oshi-rainbow-lighthouse: 12% (11.29/87.00s)
+[1]Nora        |08:30:54 | 21-10-2026| watch oshi-rainbow-lighthouse: 19% (16.97/87.00s)
+[1]Nora        |08:31:00 | 21-10-2026| watch oshi-rainbow-lighthouse: 26% (22.76/87.00s)
+[1]Nora        |08:31:07 | 21-10-2026| watch oshi-rainbow-lighthouse: 32% (28.42/87.00s)
+[1]Nora        |08:31:14 | 21-10-2026| watch oshi-rainbow-lighthouse: 39% (34.57/87.00s)
+[1]Nora        |08:31:20 | 21-10-2026| watch oshi-rainbow-lighthouse: 46% (40.38/87.00s)
+[1]Nora        |08:31:26 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (46.01/87.00s)
+[1]Nora        |08:31:33 | 21-10-2026| watch oshi-rainbow-lighthouse: 59% (51.62/87.00s)
+[1]Nora        |08:31:39 | 21-10-2026| watch oshi-rainbow-lighthouse: 66% (57.64/87.00s)
+[1]Nora        |08:31:45 | 21-10-2026| watch oshi-rainbow-lighthouse: 72% (63.29/87.00s)
+[1]Nora        |08:31:52 | 21-10-2026| watch oshi-rainbow-lighthouse: 79% (68.88/87.00s)
+[1]Nora        |08:31:58 | 21-10-2026| watch oshi-rainbow-lighthouse: 86% (74.83/87.00s)
+[1]Nora        |08:32:04 | 21-10-2026| watch oshi-rainbow-lighthouse: 92% (80.28/87.00s)
+[1]Nora        |08:32:04 | 21-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (80.28/87.00s)
+[1]Nora        |08:32:09 | 21-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Nora        |08:32:10 | 21-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
+[1]Nora        |08:32:17 | 21-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.18/181.00s)
+[1]Nora        |08:32:24 | 21-10-2026| watch bakeru-ikesou-jan-mv: 6% (11.39/181.00s)
+[1]Nora        |08:32:31 | 21-10-2026| watch bakeru-ikesou-jan-mv: 9% (17.12/181.00s)
+[1]Nora        |08:32:37 | 21-10-2026| watch bakeru-ikesou-jan-mv: 12% (23.42/181.00s)
+[1]Nora        |08:32:43 | 21-10-2026| watch bakeru-ikesou-jan-mv: 16% (29.38/181.00s)
+[1]Nora        |08:32:50 | 21-10-2026| watch bakeru-ikesou-jan-mv: 19% (34.87/181.00s)
+[1]Nora        |08:32:57 | 21-10-2026| watch bakeru-ikesou-jan-mv: 22% (41.13/181.00s)
+[1]Nora        |08:33:03 | 21-10-2026| watch bakeru-ikesou-jan-mv: 25% (46.89/181.00s)
+[1]Nora        |08:33:09 | 21-10-2026| watch bakeru-ikesou-jan-mv: 29% (52.67/181.00s)
+[1]Nora        |08:33:15 | 21-10-2026| watch bakeru-ikesou-jan-mv: 32% (58.21/181.00s)
+[1]Nora        |08:33:22 | 21-10-2026| watch bakeru-ikesou-jan-mv: 35% (63.67/181.00s)
+[1]Nora        |08:33:28 | 21-10-2026| watch bakeru-ikesou-jan-mv: 38% (69.47/181.00s)
+[1]Nora        |08:33:35 | 21-10-2026| watch bakeru-ikesou-jan-mv: 41% (75.15/181.00s)
+[1]Nora        |08:33:41 | 21-10-2026| watch bakeru-ikesou-jan-mv: 44% (81.05/181.00s)
+[1]Nora        |08:33:48 | 21-10-2026| watch bakeru-ikesou-jan-mv: 47% (86.55/181.00s)
+[1]Nora        |08:33:55 | 21-10-2026| watch bakeru-ikesou-jan-mv: 51% (92.74/181.00s)
+[1]Nora        |08:34:01 | 21-10-2026| watch bakeru-ikesou-jan-mv: 54% (99.01/181.00s)
+[1]Nora        |08:34:07 | 21-10-2026| watch bakeru-ikesou-jan-mv: 57% (104.77/181.00s)
+[1]Nora        |08:34:13 | 21-10-2026| watch bakeru-ikesou-jan-mv: 61% (110.56/181.00s)
+[1]Nora        |08:34:20 | 21-10-2026| watch bakeru-ikesou-jan-mv: 64% (115.97/181.00s)
+[1]Nora        |08:34:26 | 21-10-2026| watch bakeru-ikesou-jan-mv: 67% (121.58/181.00s)
+[1]Nora        |08:34:33 | 21-10-2026| watch bakeru-ikesou-jan-mv: 70% (127.37/181.00s)
+[1]Nora        |08:34:39 | 21-10-2026| watch bakeru-ikesou-jan-mv: 73% (133.12/181.00s)
+[1]Nora        |08:34:45 | 21-10-2026| watch bakeru-ikesou-jan-mv: 76% (138.87/181.00s)
+[1]Nora        |08:34:53 | 21-10-2026| watch bakeru-ikesou-jan-mv: 79% (144.35/181.00s)
+[1]Nora        |08:34:59 | 21-10-2026| watch bakeru-ikesou-jan-mv: 83% (150.37/181.00s)
+[1]Nora        |08:35:05 | 21-10-2026| watch bakeru-ikesou-jan-mv: 86% (156.65/181.00s)
+[1]Nora        |08:35:11 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.31/181.00s)
+[1]Nora        |08:35:18 | 21-10-2026| watch bakeru-ikesou-jan-mv: 92% (167.82/181.00s)
+[1]Nora        |08:35:18 | 21-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (167.82/181.00s)
 --> [1]Nora menjalankan: Read Article
-[1]Nora        |07:25:29 | 20-10-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nora        |08:35:19 | 21-10-2026| news: 27/27 artikel selesai dibaca
+[1]Nora        |08:35:20 | 21-10-2026| mint eligibility: {"userId":"1748500019299385344","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@norasyakila","status":"submitted","revision":"463f8c04-681c-4437-8200-82ec815650
+[1]Nora        |08:35:26 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Nora menjalankan: Quiz Anime
-[1]Nora        |07:25:29 | 20-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nora        |08:35:29 | 21-10-2026| quiz ep1: sudah dijawab
+[1]Nora        |08:35:29 | 21-10-2026| quiz ep2: sudah dijawab
+[1]Nora        |08:35:29 | 21-10-2026| quiz ep3: sudah dijawab
+[1]Nora        |08:35:29 | 21-10-2026| quiz ep4: sudah dijawab
+[1]Nora        |08:35:29 | 21-10-2026| quiz ep5: sudah dijawab
+[1]Nora        |08:35:29 | 21-10-2026| quiz ep6: sudah dijawab
 --> [1]Nora menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nora        |07:25:30 | 20-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-[1]Nora        |07:25:30 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nora        |08:35:31 | 21-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nora        |08:35:31 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Nora        |08:35:31 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nora        |08:35:31 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nora menjalankan: Claim Missions
-[1]Nora        |07:25:30 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nora        |08:35:32 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Nora        |08:35:32 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nora        |08:35:32 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nora menjalankan: Check Eligibility
 
 --- eligibility [1]Nora ---
-  @syakilanora | score=1550 rank=4497
-  tasks    [##################--] 73/80
-  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  @syakilanora | score=1630 rank=4323
+  tasks    [###################-] 74/80
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 22/17
+  music    [####################] 11/11
+  artikel  [####################] 27/27
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nora menjalankan: Read Manga
-[1]Nora        |07:25:32 | 20-10-2026| manga: 0/13 chapter belum completed
+[1]Nora        |08:35:35 | 21-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nora menjalankan: Get Gift
-[1]Nora        |07:25:32 | 20-10-2026| gift: 0/4 belum diterima
+[1]Nora        |08:35:36 | 21-10-2026| gift: 0/4 belum diterima
 --> [1]Nora menjalankan: Setup Profile
-[1]Nora        |07:25:33 | 20-10-2026| profile: bio="https://x.com/syakilanora" fav=amato rewardAt=1791688825
-[1]Nora        |07:25:33 | 20-10-2026| profile: bonus sudah diklaim, skip
+[1]Nora        |08:35:36 | 21-10-2026| profile: bio="https://x.com/syakilanora" fav=amato rewardAt=1791688825
+[1]Nora        |08:35:36 | 21-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nora menjalankan: Bind Wallet
-[1]Nora        |07:25:33 | 20-10-2026| wallet: sudah terikat DnLoRpPQzh... (solana)
+[1]Nora        |08:35:37 | 21-10-2026| wallet: sudah terikat DnLoRpPQzh... (solana)
 
 == RINGKASAN ==
-- Nora: daily=claimed | tasks OK 7/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound
+- Nora: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 4/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
