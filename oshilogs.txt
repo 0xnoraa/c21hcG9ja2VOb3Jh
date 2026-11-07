@@ -12,43 +12,39 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nora =====
-[1]Nora        |08:44:40 | 06-11-2026| login OK @syakilanora | score=2880 rank=2680
-[1]Nora        |08:44:40 | 06-11-2026| serverTime=2026-11-06T08:44:40.000Z local=2026-11-06T08:44:40.116Z
+[1]Nora        |10:50:43 | 07-11-2026| login OK @syakilanora | score=2940 rank=2590
+[1]Nora        |10:50:43 | 07-11-2026| serverTime=2026-11-07T10:50:43.000Z local=2026-11-07T10:50:43.820Z
 --> [1]Nora menjalankan: Claim Daily
-[1]Nora        |08:44:41 | 06-11-2026| daily: OK +10 poin score=2890
---> [1]Nora menjalankan: Auto All Tasks (5 pending)
-[1]Nora        |08:44:42 | 06-11-2026| [1/5] 6795f466 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6795f466-c632-4f68-affc-fa1947dbcdef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211860271211602 | proof=https://x.com/syakilanora/status/2118625249907076172
-[1]Nora        |08:44:42 | 06-11-2026| delay 10s...
-[1]Nora        |08:44:56 | 06-11-2026| [2/5] bf0ad10d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6795f466-c632-4f68-affc-fa1947dbcdef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211860271211602 | proof=https://x.com/syakilanora/status/2118625130275982950
-[1]Nora        |08:44:56 | 06-11-2026| delay 10s...
-[1]Nora        |08:45:07 | 06-11-2026| [3/5] edbd5fee (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6795f466-c632-4f68-affc-fa1947dbcdef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211860271211602 | proof=https://x.com/syakilanora/status/2118625235293751763
-[1]Nora        |08:45:07 | 06-11-2026| delay 10s...
-[1]Nora        |08:45:19 | 06-11-2026| [4/5] 122ee3f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6795f466-c632-4f68-affc-fa1947dbcdef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211860271211602 | proof=https://x.com/syakilanora/status/2118625404989049842
-[1]Nora        |08:45:19 | 06-11-2026| delay 10s...
-[1]Nora        |08:45:31 | 06-11-2026| [5/5] 1366d543 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6795f466-c632-4f68-affc-fa1947dbcdef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211860271211602 | proof=https://x.com/syakilanora/status/2118625242952958476
-[1]Nora        |08:45:31 | 06-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nora        |08:45:33 | 06-11-2026| [1/1] 6795f466 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"6795f466-c632-4f68-affc-fa1947dbcdef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2118602712116027 | proof=https://x.com/syakilanora/status/2118625467821858828
+[1]Nora        |10:50:45 | 07-11-2026| daily: OK +10 poin score=2950
+--> [1]Nora menjalankan: Auto All Tasks (4 pending)
+[1]Nora        |10:50:47 | 07-11-2026| [1/4] 00a6a949 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/syakilanora/status/2119019095560123729
+[1]Nora        |10:50:47 | 07-11-2026| delay 10s...
+[1]Nora        |10:51:00 | 07-11-2026| [2/4] 3031f6f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/syakilanora/status/2119019261499415054
+[1]Nora        |10:51:00 | 07-11-2026| delay 10s...
+[1]Nora        |10:51:13 | 07-11-2026| [3/4] 191dc55f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/syakilanora/status/2119019485880637977
+[1]Nora        |10:51:13 | 07-11-2026| delay 10s...
+[1]Nora        |10:51:25 | 07-11-2026| [4/4] 3511b911 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/syakilanora/status/2119019472624033634
+[1]Nora        |10:51:25 | 07-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nora        |10:51:28 | 07-11-2026| [1/1] 00a6a949 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/syakilanora/status/2119019567485785137
 --> [1]Nora menjalankan: Watch Anime
-[1]Nora        |08:45:33 | 06-11-2026| watch: semua video sudah completed
+[1]Nora        |10:51:29 | 07-11-2026| watch ERROR: watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Nora menjalankan: Read Article
-[1]Nora        |08:45:39 | 06-11-2026| news: 34/34 artikel selesai dibaca
-[1]Nora        |08:45:41 | 06-11-2026| mint eligibility: {"userId":"1748500019299385344","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@norasyakila","status":"submitted","revision":"463f8c04-681c-4437-8200-82ec815650
-[1]Nora        |08:45:41 | 06-11-2026| news: semua artikel sudah dibaca
+[1]Nora        |10:51:30 | 07-11-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Nora menjalankan: Quiz Anime
 --> [1]Nora menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nora        |08:45:45 | 06-11-2026| music: kedua misi sudah tercapai, stop
-[1]Nora        |08:45:46 | 06-11-2026| mission music-listens-10: sudah diklaim
-[1]Nora        |08:45:46 | 06-11-2026| mission music-minutes-30: sudah diklaim
-[1]Nora        |08:45:46 | 06-11-2026| mission anime-completed-3: sudah diklaim
+[1]Nora        |10:51:33 | 07-11-2026| music: kedua misi sudah tercapai, stop
+[1]Nora        |10:51:34 | 07-11-2026| mission music-listens-10: sudah diklaim
+[1]Nora        |10:51:34 | 07-11-2026| mission music-minutes-30: sudah diklaim
+[1]Nora        |10:51:34 | 07-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nora menjalankan: Claim Missions
-[1]Nora        |08:45:46 | 06-11-2026| mission music-listens-10: sudah diklaim
-[1]Nora        |08:45:46 | 06-11-2026| mission music-minutes-30: sudah diklaim
-[1]Nora        |08:45:46 | 06-11-2026| mission anime-completed-3: sudah diklaim
+[1]Nora        |10:51:34 | 07-11-2026| mission music-listens-10: sudah diklaim
+[1]Nora        |10:51:34 | 07-11-2026| mission music-minutes-30: sudah diklaim
+[1]Nora        |10:51:34 | 07-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nora menjalankan: Check Eligibility
 
 --- eligibility [1]Nora ---
-  @syakilanora | score=2880 rank=2680
-  tasks    [###-----------------] 1/6
+  @syakilanora | score=2940 rank=2590
+  tasks    [####----------------] 1/5
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -59,17 +55,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nora menjalankan: Read Manga
-[1]Nora        |08:45:50 | 06-11-2026| manga: 0/13 chapter belum completed
+[1]Nora        |10:51:39 | 07-11-2026| manga: 0/13 chapter belum completed
 --> [1]Nora menjalankan: Get Gift
-[1]Nora        |08:45:54 | 06-11-2026| gift: 3/9 belum diterima
-[1]Nora        |08:45:55 | 06-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Nora        |08:45:57 | 06-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Nora        |08:46:00 | 06-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Nora        |10:51:41 | 07-11-2026| gift: 3/9 belum diterima
+[1]Nora        |10:51:42 | 07-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Nora        |10:51:45 | 07-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Nora        |10:51:47 | 07-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Nora menjalankan: Setup Profile
-[1]Nora        |08:46:02 | 06-11-2026| profile: bio="https://x.com/syakilanora" fav=amato rewardAt=1791688825
-[1]Nora        |08:46:02 | 06-11-2026| profile: bonus sudah diklaim, skip
+[1]Nora        |10:51:50 | 07-11-2026| profile: bio="https://x.com/syakilanora" fav=amato rewardAt=1791688825
+[1]Nora        |10:51:50 | 07-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Nora menjalankan: Bind Wallet
-[1]Nora        |08:46:03 | 06-11-2026| wallet: sudah terikat DnLoRpPQzh... (solana)
+[1]Nora        |10:51:51 | 07-11-2026| wallet: sudah terikat DnLoRpPQzh... (solana)
 
 == RINGKASAN ==
-- Nora: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
+- Nora: daily=claimed | tasks OK 3/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
